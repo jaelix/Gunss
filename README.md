@@ -1,4 +1,8 @@
 Red And BLack Glock 19 with custom characters
+
+
+
+
 *__HowToInstall__*
 *__Weapon-Skins__*
 FiveM
